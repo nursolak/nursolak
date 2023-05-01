@@ -3,7 +3,7 @@
 <!--
 **nursolak/nursolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Ekran görüntüsü 2023-05-01 160440](https://user-images.githubusercontent.com/88718358/235455763-ce6b65b9-d2c9-4ef2-ba92-76dba011f55e.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
